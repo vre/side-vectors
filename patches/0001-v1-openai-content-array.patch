@@ -1,0 +1,35 @@
+diff --git a/native/jlens_server.cpp b/native/jlens_server.cpp
+index 4513f25..07ab9fb 100644
+--- a/native/jlens_server.cpp
++++ b/native/jlens_server.cpp
+@@ -406,12 +406,29 @@ static std::vector<llama_token> tokenize_str(const jlens_server & S, const std::
+     return toks;
+ }
+ 
++// OpenAI content may be a plain string or an array of typed parts
++// (agent clients like pi send [{"type":"text","text":...}, ...]).
++static std::string content_to_string(const json & c) {
++    if (c.is_string()) return c.get<std::string>();
++    if (c.is_array()) {
++        std::string out;
++        for (const auto & part : c) {
++            if (part.is_object() && part.value("type", "") == "text") {
++                out += part.value("text", "");
++            }
++        }
++        return out;
++    }
++    if (c.is_null()) return "";
++    return dump_json(c);
++}
++
+ // apply the model's chat template (chatml fallback) to OpenAI-style messages
+ static std::string apply_template_str(const jlens_server & S, const json & messages, bool add_assistant) {
+     std::vector<std::string> stash;
+     for (const auto & m : messages) {
+         stash.push_back(m.at("role").get<std::string>());
+-        stash.push_back(m.at("content").get<std::string>());
++        stash.push_back(content_to_string(m.value("content", json())));
+     }
+     std::vector<llama_chat_message> msgs;
+     for (size_t i = 0; i < stash.size(); i += 2) {

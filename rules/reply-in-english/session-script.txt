@@ -1,0 +1,60 @@
+Suunnittelen mökille aurinkosähköjärjestelmää. Mistä kannattaa lähteä liikkeelle?
+Voitko tarkentaa tuota mitoituskohtaa — miten arvioin oman kulutukseni?
+Anna konkreettinen esimerkki laskelmasta äskeisen pohjalta.
+Entä talvikäyttö — mitä ongelmia pimeä kausi tuo?
+Mainitsit akut. Mitä akkutyyppiä suosittelet ja miksi?
+Miten tuo eroaa lyijyakuista käytännössä?
+Mitä turvallisuusriskejä tähän kokonaisuuteen liittyy?
+Tiivistä tähänastinen suunnitelma muutamaan kohtaan.
+Paljonko koko paketti suunnilleen maksaisi?
+Onko tähän saatavilla jotain tukia tai verovähennyksiä Suomessa?
+Vaihdetaan aihetta: aloitan juuriharjoittelun eli teen ensimmäistä hapanjuurta. Miten pääsen alkuun?
+Miksi juuri tuo jauhotyyppi? Voiko käyttää muutakin?
+Juureni ei kupli kolmantena päivänä. Mikä on vialla?
+Selitä tarkemmin mitä siinä käymisessä kemiallisesti tapahtuu.
+Miten säilytän juuren jos leivon vain kerran viikossa?
+Anna yksinkertainen resepti ensimmäiseen leipään äskeisen pohjalta.
+Taikina levisi lätyksi uunissa. Mitä tein väärin?
+Miten gluteeniton hapanjuuri eroaa tavallisesta?
+Vertaa hapanjuurileipää hiivaleipään ravintoarvoiltaan.
+Tiivistä aloittelijan kolme tärkeintä oppia tästä keskustelusta.
+Uusi aihe: kotiverkkoni on hidas ja epävakaa. Mistä aloitan vianetsinnän?
+Tarkenna tuota mittauskohtaa — millä työkaluilla mittaan?
+Tulokset: 200M ethernetillä, 20M wifillä samassa huoneessa. Mitä päättelet?
+Mainitsit kanavat. Miten valitsen oikean wifi-kanavan?
+Kannattaako minun siirtyä mesh-järjestelmään? Asun kaksikerroksisessa talossa.
+Miten mesh eroaa tavallisesta toistimesta teknisesti?
+Mitä tietoturva-asioita kotiverkossa pitäisi tarkistaa?
+Anna vaiheittainen tarkistuslista äskeisen pohjalta.
+Entä IoT-laitteet — pitäisikö ne eristää omaan verkkoonsa?
+Tiivistä koko vianetsintä- ja parannussuunnitelma.
+Sitten toinen juttu: suunnittelen viikon vaellusta Lappiin syyskuussa. Mihin kansallispuistoon menisin ensikertalaisena?
+Miksi juuri tuo valinta? Vertaa sitä yhteen vaihtoehtoon.
+Millainen varustelista minun kannattaa tehdä?
+Tarkenna makuupussivalintaa — mikä lämpötilaluokitus syyskuussa riittää?
+Miten autiotupajärjestelmä toimii? Voinko yöpyä niissä?
+Mitä sääriskejä syyskuussa pitää ottaa huomioon?
+Anna esimerkkireitti viidelle päivälle äskeisen puiston sisällä.
+Miten ruokahuolto kannattaa hoitaa tuolla reitillä?
+Mitä jokamiehenoikeudet sallivat ja kieltävät tuolla alueella?
+Tiivistä tärkeimmät turvallisuusohjeet ensikertalaiselle.
+Vielä yksi aihe: perin isovanhemmiltani vanhan 60-luvun rintamamiestalon. Mistä kuntoarvio kannattaa aloittaa?
+Tarkenna tuota kosteusvauriokohtaa — mistä niitä tyypillisesti löytyy?
+Mainitsit salaojat. Miten tarkistan niiden kunnon?
+Mitä 60-luvun taloissa on tyypillisesti sähköjen osalta edessä?
+Kannattaako öljylämmitys vaihtaa ja mihin?
+Vertaa maalämpöä ja ilmavesilämpöpumppua tässä talossa.
+Missä järjestyksessä remontit kannattaa tehdä? Perustele.
+Paljonko tällainen kokonaisuus karkeasti maksaa?
+Mitä lupia näihin remontteihin tarvitaan?
+Tiivistä viiden vuoden remonttisuunnitelma äskeisen pohjalta.
+Viimeinen aihe: haluan oppia tunnistamaan syötäviä sieniä. Mistä lajeista aloittaisin?
+Miksi juuri nuo? Mitkä ovat vaarallisimmat sekoitusriskit?
+Tarkenna tuota myrkkysieniosuutta — miten erotan ne varmasti?
+Missä ja milloin noita aloittelijalajeja kannattaa etsiä?
+Miten käsittelen ja säilön saaliin oikein?
+Anna yksinkertainen resepti äskeisten sienten käyttöön.
+Voiko sieniä kuivata mikrossa? Miksi / miksi ei?
+Mitä hyötyä sienestä on ravintoarvoltaan?
+Miten opetan lapselle turvallista sienestystä?
+Tiivistä aloittelijan sienestyssäännöt muutamaan kohtaan.

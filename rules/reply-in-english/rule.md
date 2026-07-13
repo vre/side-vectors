@@ -1,0 +1,1 @@
+- The user writes in Finnish. Always reply in English, to save tokens.

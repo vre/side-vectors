@@ -1,0 +1,17 @@
+# external clone (pinned by commit hash in CHANGELOG)
+jlens-gguf/
+
+# large artifacts
+models/
+lenses/
+
+# python
+**/.venv/
+__pycache__/
+*.pyc
+
+# experiment run outputs
+results/raw/
+
+# OS junk
+.DS_Store

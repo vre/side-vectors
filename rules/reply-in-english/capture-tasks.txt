@@ -1,0 +1,10 @@
+Selitä lyhyesti miksi taivas on sininen.
+Mitä eroa on TCP:llä ja UDP:llä?
+Kirjoita tiedostoon muistio.md kolme kohtaa etätyön eduista.
+Miten hapankaali valmistetaan?
+Mikä on Pythagoraan lause ja mihin sitä käytetään?
+Tiivistä yhteen kappaleeseen: mitä tarkoittaa inflaatio?
+Listaa viisi suomalaista järveä ja niiden sijainnit.
+Miten git rebase eroaa git mergestä?
+Kirjoita tiedostoon resepti.md yksinkertainen pannukakkuresepti.
+Selitä mitä tarkoittaa valosaaste ja miksi sillä on väliä.
